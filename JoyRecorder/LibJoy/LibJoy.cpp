@@ -25,16 +25,6 @@ typedef struct {
 } JOYSTICK_STATE;
 #pragma pack( pop )
 
-#define XAXIS 1
-#define YAXIS 2
-#define ZROTATION 3
-#define UP 4
-#define DOWN 5
-#define LEFT 6
-#define RIGHT 7
-#define ENTERBUTTON 4
-#define ZROTATION 3
-
 static HANDLE	h;
 
 void initJoystick()
