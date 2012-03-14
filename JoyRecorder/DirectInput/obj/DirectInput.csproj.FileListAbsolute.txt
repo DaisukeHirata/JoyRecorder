@@ -1,0 +1,8 @@
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\DirectInput.Form1.resources
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\DirectInput.Properties.Resources.resources
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\DirectInput.csproj.GenerateResource.Cache
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\bin\Debug\DirectInput.exe
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\bin\Debug\DirectInput.pdb
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\DirectInput.exe
+C:\Users\Hirotaka\Documents\Visual Studio 2005\Projects\DirectInput\DirectInput\obj\Debug\DirectInput.pdb

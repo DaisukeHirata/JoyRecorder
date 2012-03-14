@@ -1,0 +1,18 @@
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.exe
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.pdb
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\bin\Debug\DirectInput.exe
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\bin\Debug\DirectInput.pdb
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.Form1.resources
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.Properties.Resources.resources
+C:\Documents and Settings\daisuke\My Documents\Downloads\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.csproj.GenerateResource.Cache
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.exe
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Debug\DirectInput.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\bin\Debug\DirectInput.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\bin\Debug\DirectInput.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\DirectInput.Form1.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\DirectInput.Properties.Resources.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\DirectInput.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\DirectInput.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\DirectInput\obj\Debug\DirectInput.pdb

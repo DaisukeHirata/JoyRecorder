@@ -1,0 +1,5 @@
+LIBRARY	"LibJoy"
+EXPORTS
+initJoystick
+closeJoystick
+moveJoystick

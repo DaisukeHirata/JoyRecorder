@@ -1,0 +1,8 @@
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\bin\Release\DirectInput.exe
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\bin\Release\DirectInput.pdb
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\DirectInput.Form1.resources
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\DirectInput.Properties.Resources.resources
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\DirectInput.csproj.GenerateResource.Cache
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\DirectInput.exe
+C:\Documents and Settings\daisuke\デスクトップ\DirectInput\DirectInput\DirectInput\obj\Release\DirectInput.pdb

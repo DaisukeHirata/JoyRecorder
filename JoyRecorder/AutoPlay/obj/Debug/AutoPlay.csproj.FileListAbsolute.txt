@@ -1,0 +1,5 @@
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\AutoPlay\bin\Debug\AutoPlay.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\AutoPlay\bin\Debug\AutoPlay.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\AutoPlay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\AutoPlay\obj\Debug\AutoPlay.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\JoyRecorder\AutoPlay\obj\Debug\AutoPlay.pdb
